@@ -10,6 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "sass": "^1.26.11",
     "words-to-numbers": "^1.5.1"
   },
   "scripts": {
