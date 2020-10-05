@@ -1,0 +1,7 @@
+.cards {
+    min-height: calc(100vh - 6rem);
+    padding: 2.5rem;
+    display: grid;
+    grid-template: auto / repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
