@@ -1,0 +1,39 @@
+.info-card {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: $light-color;
+    border-radius: $border-radius;
+    max-height: 45vh;
+
+    &__title {
+        font-size: 1.5rem;
+        color: $dark-color;
+    }
+
+    p {
+        font-size: 1.1rem;
+    }
+
+    & > * {
+        margin: 0;
+    }
+
+    &:nth-child(1) {
+        background-color: #9ffff1;
+    }
+
+    &:nth-child(2) {
+        background-color: #9fff9f;
+    }
+
+    &:nth-child(3) {
+        background-color: #e5ff9f;
+    }
+
+    &:nth-child(4) {
+        background-color: #ffd59f;
+    }
+}
