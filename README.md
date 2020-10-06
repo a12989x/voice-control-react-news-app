@@ -1,6 +1,6 @@
 # Voice Control React News App
 
-An clone application based on Project of [adrianhajdin](https://github.com/adrianhajdin 'JavaScript Mastery')
+A clone application based on Project of [adrianhajdin](https://github.com/adrianhajdin 'JavaScript Mastery')
 
 ## Live Preview
 
@@ -17,7 +17,7 @@ Build with:
 <b>Built with</b>
 
 -   [React](https://reactjs.org/)
--   [Alana AI](https://alan.app/)
+-   [Alan AI](https://alan.app/)
 
 ### Installation and Setup Instructions
 
