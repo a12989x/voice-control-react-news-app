@@ -10,10 +10,6 @@ A clone application based on Project of [adrianhajdin](https://github.com/adrian
 
 ### Tech/framework used
 
-Build with:
--React
--Alan AI
-
 <b>Built with</b>
 
 -   [React](https://reactjs.org/)
