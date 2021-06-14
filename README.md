@@ -2,9 +2,7 @@
 
 A clone application based on Project of [adrianhajdin](https://github.com/adrianhajdin 'JavaScript Mastery')
 
-## Live Preview
-
-[Weather React App PWA](https://voice-control-react-news-app.vercel.app/ 'Voice Control React News App')
+[Live Preview](https://voice-control-react-news-app.vercel.app/ 'Voice Control React News App')
 
 ![voce-control-react-news-app](./thumb.png)
 
